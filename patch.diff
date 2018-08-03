@@ -1,0 +1,30 @@
+From 40ba51ca7cf0cdcaca270f43f5101ef697b5815e Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?=E5=BC=A0=E7=BF=94=E9=BE=99?=
+ <xianglong.zhang@hand-china.com>
+Date: Tue, 31 Jul 2018 20:39:55 +0800
+Subject: [PATCH] =?UTF-8?q?=E4=BF=AE=E5=A4=8D1.1.0=E7=89=88=E6=9C=AC?=
+ =?UTF-8?q?=E4=B8=ADBUG1?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ src/main/java/TestMain.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/main/java/TestMain.java b/src/main/java/TestMain.java
+index 7be8f83..3503676 100644
+--- a/src/main/java/TestMain.java
++++ b/src/main/java/TestMain.java
+@@ -16,7 +16,7 @@ public class TestMain {
+         // 1.0.0 tag bug 未修复
+ 
+         // 1.1.0 版本
+-        // 1.1.0 bug1 未修复
++        // 1.1.0 bug1 在1.1.0-RELEASE中检测出并修复
+         // 1.1.0 bug2 未修复
+ 
+ 
+-- 
+2.9.0.windows.1
+

@@ -1,1 +1,2 @@
-# lean
+# study
+study and research
